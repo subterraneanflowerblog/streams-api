@@ -7,6 +7,7 @@ Stream APIのサンプルです。
 * [ReadableStream with Fetch API](samples/readablestream_fetchapi.html)
 * [User defined ReadableStream](samples/readablestream_custom.html)
 * [ReadableStream with queueing strategy](samples/readablestream_queueingstrategy.html)
+* [ReadableStream.tee()](samples/readablestream_tee.html)
 
 ## WritableStream
 
